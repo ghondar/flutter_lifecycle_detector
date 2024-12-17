@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com/ngovang/flutter_lifecycle_detector'
+    namespace 'com.ngovang.flutter_lifecycle_detector'
     compileSdkVersion 31
 
     compileOptions {
